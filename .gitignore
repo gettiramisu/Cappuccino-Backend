@@ -1,0 +1,14 @@
+.DS_Store
+/.env.local
+/.env.local.php
+/.env.*.local
+/.direnv/
+/composer.lock
+/config/reference.php
+/flake.lock
+/phpunit.xml
+/symfony.lock
+/.phpunit.cache/
+/build/
+/var/
+/vendor/
